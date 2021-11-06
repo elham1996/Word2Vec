@@ -10,6 +10,7 @@ also clustering algorithm like K- Means have been implemented.Finally, feature s
 like term-frequency vectorizer and chi squared from scikit has been applied. 
 The implementation has been done on four datasets that included conference papers from multiple resources.
 The mentioned features are implemented using Python libraries.
+
 To train the project:
 	1- Create folder could Data and add all doc.txt file.
 	2- Use pip install -r req.txt file to install all python libraries.
