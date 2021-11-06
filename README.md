@@ -12,8 +12,14 @@ The implementation has been done on four datasets that included conference paper
 The mentioned features are implemented using Python libraries.
 
 To train the project:
+
 	1- Create folder could Data and add all doc.txt file.
+         
 	2- Use pip install -r req.txt file to install all python libraries.
+        
 To use saved model:
+
 	1-Use pip install -r req.txt file to install all python libraries.
+        
 	2- Used the pretrain model and add the world you search for it.
+        
