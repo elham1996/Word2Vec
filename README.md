@@ -19,7 +19,7 @@ To train the project:
         
 To use saved model:
 
-	1-Use pip install -r req.txt file to install all python libraries.
+	1- Use pip install -r req.txt file to install all python libraries.
         
-	2- Used the pretrain model and add the world you search for it.
+	2- Use the pretrain model and add the world you search for it.
         
