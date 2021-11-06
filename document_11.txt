@@ -1,0 +1,118 @@
+n mathematics, a series is the sum of the terms of an infinite sequence of numbers.
+
+Given an infinite sequence {\displaystyle \left(a_{1},\ a_{2},\ a_{3},\dots \right)} {\displaystyle \left(a_{1},\ a_{2},\ a_{3},\dots \right)}, the nth partial sum {\displaystyle S_{n}} S_{n} is the sum of the first n terms of the sequence, that is,
+
+{\displaystyle S_{n}=\sum _{k=1}^{n}a_{k}.} S_{n}=\sum _{k=1}^{n}a_{k}.
+A series is convergent if the sequence of its partial sums {\displaystyle \left\{S_{1},\ S_{2},\ S_{3},\dots \right\}} \left\{S_{1},\ S_{2},\ S_{3},\dots \right\} tends to a limit; that means that the partial sums become closer and closer to a given number when the number of their terms increases. More precisely, a series converges, if there exists a number {\displaystyle \ell } \ell  such that for any arbitrarily small positive number {\displaystyle \varepsilon } \varepsilon , there is a (sufficiently large) integer {\displaystyle N} N such that for all {\displaystyle n\geq \ N} n\geq \ N,
+
+{\displaystyle \left|S_{n}-\ell \right\vert \leq \ \varepsilon .} \left|S_{n}-\ell \right\vert \leq \ \varepsilon .
+If the series is convergent, the number {\displaystyle \ell } \ell  (necessarily unique) is called the sum of the series.
+
+Any series that is not convergent is said to be divergent.
+
+Contents  [hide] 
+1    Examples of convergent and divergent series
+2    Convergence tests
+3    Conditional and absolute convergence
+4    Uniform convergence
+5    Cauchy convergence criterion
+6    See also
+7    External links
+Examples of convergent and divergent series[edit]
+The reciprocals of the positive integers produce a divergent series (harmonic series):
+{\displaystyle {1 \over 1}+{1 \over 2}+{1 \over 3}+{1 \over 4}+{1 \over 5}+{1 \over 6}+\cdots \rightarrow \infty .} {1 \over 1}+{1 \over 2}+{1 \over 3}+{1 \over 4}+{1 \over 5}+{1 \over 6}+\cdots \rightarrow \infty .
+Alternating the signs of the reciprocals of positive integers produces a convergent series:
+{\displaystyle {1 \over 1}-{1 \over 2}+{1 \over 3}-{1 \over 4}+{1 \over 5}\cdots =\ln(2)} {1 \over 1}-{1 \over 2}+{1 \over 3}-{1 \over 4}+{1 \over 5}\cdots =\ln(2)
+The reciprocals of prime numbers produce a divergent series (so the set of primes is "large"):
+{\displaystyle {1 \over 2}+{1 \over 3}+{1 \over 5}+{1 \over 7}+{1 \over 11}+{1 \over 13}+\cdots \rightarrow \infty .} {1 \over 2}+{1 \over 3}+{1 \over 5}+{1 \over 7}+{1 \over 11}+{1 \over 13}+\cdots \rightarrow \infty .
+The reciprocals of triangular numbers produce a convergent series:
+{\displaystyle {1 \over 1}+{1 \over 3}+{1 \over 6}+{1 \over 10}+{1 \over 15}+{1 \over 21}+\cdots =2.} {1 \over 1}+{1 \over 3}+{1 \over 6}+{1 \over 10}+{1 \over 15}+{1 \over 21}+\cdots =2.
+The reciprocals of factorials produce a convergent series (see e):
+{\displaystyle {\frac {1}{1}}+{\frac {1}{1}}+{\frac {1}{2}}+{\frac {1}{6}}+{\frac {1}{24}}+{\frac {1}{120}}+\cdots =e.} {\frac {1}{1}}+{\frac {1}{1}}+{\frac {1}{2}}+{\frac {1}{6}}+{\frac {1}{24}}+{\frac {1}{120}}+\cdots =e.
+The reciprocals of square numbers produce a convergent series (the Basel problem):
+{\displaystyle {1 \over 1}+{1 \over 4}+{1 \over 9}+{1 \over 16}+{1 \over 25}+{1 \over 36}+\cdots ={\pi ^{2} \over 6}.} {1 \over 1}+{1 \over 4}+{1 \over 9}+{1 \over 16}+{1 \over 25}+{1 \over 36}+\cdots ={\pi ^{2} \over 6}.
+The reciprocals of powers of 2 produce a convergent series (so the set of powers of 2 is "small"):
+{\displaystyle {1 \over 1}+{1 \over 2}+{1 \over 4}+{1 \over 8}+{1 \over 16}+{1 \over 32}+\cdots =2.} {1 \over 1}+{1 \over 2}+{1 \over 4}+{1 \over 8}+{1 \over 16}+{1 \over 32}+\cdots =2.
+Alternating the signs of reciprocals of powers of 2 also produces a convergent series:
+{\displaystyle {1 \over 1}-{1 \over 2}+{1 \over 4}-{1 \over 8}+{1 \over 16}-{1 \over 32}+\cdots ={2 \over 3}.} {1 \over 1}-{1 \over 2}+{1 \over 4}-{1 \over 8}+{1 \over 16}-{1 \over 32}+\cdots ={2 \over 3}.
+The reciprocals of Fibonacci numbers produce a convergent series (see ψ):
+{\displaystyle {\frac {1}{1}}+{\frac {1}{1}}+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{8}}+\cdots =\psi .} {\frac {1}{1}}+{\frac {1}{1}}+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{8}}+\cdots =\psi .
+Convergence tests[edit]
+Main article: Convergence tests
+There are a number of methods of determining whether a series converges or diverges.
+
+
+If the blue series, {\displaystyle \Sigma b_{n}} \Sigma b_{n}, can be proven to converge, then the smaller series, {\displaystyle \Sigma a_{n}} \Sigma a_{n} must converge. By contraposition, if the red series, {\displaystyle \Sigma a_{n}} \Sigma a_{n} is proven to diverge, then {\displaystyle \Sigma b_{n}} \Sigma b_{n} must also diverge.
+Comparison test. The terms of the sequence {\displaystyle \left\{a_{n}\right\}} \left\{a_{n}\right\} are compared to those of another sequence {\displaystyle \left\{b_{n}\right\}} \left\{b_{n}\right\}. If,
+
+for all n, {\displaystyle 0\leq \ a_{n}\leq \ b_{n}} 0\leq \ a_{n}\leq \ b_{n}, and {\displaystyle \sum _{n=1}^{\infty }b_{n}} \sum _{n=1}^{\infty }b_{n} converges, then so does {\displaystyle \sum _{n=1}^{\infty }a_{n}.} \sum _{n=1}^{\infty }a_{n}.
+
+However, if,
+
+for all n, {\displaystyle 0\leq \ b_{n}\leq \ a_{n}} 0\leq \ b_{n}\leq \ a_{n}, and {\displaystyle \sum _{n=1}^{\infty }b_{n}} \sum _{n=1}^{\infty }b_{n} diverges, then so does {\displaystyle \sum _{n=1}^{\infty }a_{n}.} \sum _{n=1}^{\infty }a_{n}.
+
+Ratio test. Assume that for all n, {\displaystyle a_{n}>0} a_{n}>0. Suppose that there exists {\displaystyle r} r such that
+
+{\displaystyle \lim _{n\to \infty }\left|{\frac {a_{n+1}}{a_{n}}}\right|=r.} \lim _{n\to \infty }\left|{\frac {a_{n+1}}{a_{n}}}\right|=r.
+If r < 1, then the series converges. If r > 1, then the series diverges. If r = 1, the ratio test is inconclusive, and the series may converge or diverge.
+
+Root test or nth root test. Suppose that the terms of the sequence in question are non-negative. Define r as follows:
+
+{\displaystyle r=\limsup _{n\rightarrow \infty }{\sqrt[{n}]{|a_{n}|}},} r=\limsup _{n\rightarrow \infty }{\sqrt[{n}]{|a_{n}|}},
+where "lim sup" denotes the limit superior (possibly ∞; if the limit exists it is the same value).
+If r < 1, then the series converges. If r > 1, then the series diverges. If r = 1, the root test is inconclusive, and the series may converge or diverge.
+
+The ratio test and the root test are both based on comparison with a geometric series, and as such they work in similar situations. In fact, if the ratio test works (meaning that the limit exists and is not equal to 1) then so does the root test; the converse, however, is not true. The root test is therefore more generally applicable, but as a practical matter the limit is often difficult to compute for commonly seen types of series.
+
+Integral test. The series can be compared to an integral to establish convergence or divergence. Let {\displaystyle f(n)=a_{n}} f(n)=a_{n} be a positive and monotone decreasing function. If
+
+{\displaystyle \int _{1}^{\infty }f(x)\,dx=\lim _{t\to \infty }\int _{1}^{t}f(x)\,dx<\infty ,} \int _{1}^{\infty }f(x)\,dx=\lim _{t\to \infty }\int _{1}^{t}f(x)\,dx<\infty ,
+then the series converges. But if the integral diverges, then the series does so as well.
+
+Limit comparison test. If {\displaystyle \left\{a_{n}\right\},\left\{b_{n}\right\}>0} \left\{a_{n}\right\},\left\{b_{n}\right\}>0, and the limit {\displaystyle \lim _{n\to \infty }{\frac {a_{n}}{b_{n}}}} \lim _{n\to \infty }{\frac {a_{n}}{b_{n}}} exists and is not zero, then {\displaystyle \sum _{n=1}^{\infty }a_{n}} \sum _{n=1}^{\infty }a_{n} converges if and only if {\displaystyle \sum _{n=1}^{\infty }b_{n}} \sum _{n=1}^{\infty }b_{n} converges.
+
+Alternating series test. Also known as the Leibniz criterion, the alternating series test states that for an alternating series of the form {\displaystyle \sum _{n=1}^{\infty }a_{n}(-1)^{n}} \sum _{n=1}^{\infty }a_{n}(-1)^{n}, if {\displaystyle \left\{a_{n}\right\}} \left\{a_{n}\right\} is monotone decreasing, and has a limit of 0 at infinity, then the series converges.
+
+Cauchy condensation test. If {\displaystyle \left\{a_{n}\right\}} \left\{a_{n}\right\} is a positive monotone decreasing sequence, then {\displaystyle \sum _{n=1}^{\infty }a_{n}} \sum _{n=1}^{\infty }a_{n} converges if and only if {\displaystyle \sum _{k=1}^{\infty }2^{k}a_{2^{k}}} \sum _{k=1}^{\infty }2^{k}a_{2^{k}} converges.
+
+Dirichlet's test
+
+Abel's test
+
+Raabe's test
+
+Conditional and absolute convergence[edit]
+
+Illustration of the absolute convergence of the power series of Exp[z] around 0 evaluated at z = Exp[ i⁄3]. The length of the line is finite.
+
+Illustration of the conditional convergence of the power series of log(z+1) around 0 evaluated at z = exp((π− 1⁄3)i). The length of the line is infinite.
+For any sequence {\displaystyle \left\{a_{1},\ a_{2},\ a_{3},\dots \right\}} \left\{a_{1},\ a_{2},\ a_{3},\dots \right\}, {\displaystyle a_{n}\leq \ \left|a_{n}\right\vert } a_{n}\leq \ \left|a_{n}\right\vert  for all n. Therefore,
+
+{\displaystyle \sum _{n=1}^{\infty }a_{n}\leq \ \sum _{n=1}^{\infty }\left|a_{n}\right\vert .} \sum _{n=1}^{\infty }a_{n}\leq \ \sum _{n=1}^{\infty }\left|a_{n}\right\vert .
+This means that if {\displaystyle \sum _{n=1}^{\infty }\left|a_{n}\right\vert } \sum _{n=1}^{\infty }\left|a_{n}\right\vert  converges, then {\displaystyle \sum _{n=1}^{\infty }a_{n}} \sum _{n=1}^{\infty }a_{n} also converges (but not vice versa).
+
+If the series {\displaystyle \sum _{n=1}^{\infty }\left|a_{n}\right\vert } \sum _{n=1}^{\infty }\left|a_{n}\right\vert  converges, then the series {\displaystyle \sum _{n=1}^{\infty }a_{n}} \sum _{n=1}^{\infty }a_{n} is absolutely convergent. An absolutely convergent sequence is one in which the length of the line created by joining together all of the increments to the partial sum is finitely long. The power series of the exponential function is absolutely convergent everywhere.
+
+If the series {\displaystyle \sum _{n=1}^{\infty }a_{n}} \sum _{n=1}^{\infty }a_{n} converges but the series {\displaystyle \sum _{n=1}^{\infty }\left|a_{n}\right\vert } \sum _{n=1}^{\infty }\left|a_{n}\right\vert  diverges, then the series {\displaystyle \sum _{n=1}^{\infty }a_{n}} \sum _{n=1}^{\infty }a_{n} is conditionally convergent. The path formed by connecting the partial sums of a conditionally convergent series is infinitely long. The power series of the logarithm is conditionally convergent.
+
+The Riemann series theorem states that if a series converges conditionally, it is possible to rearrange the terms of the series in such a way that the series converges to any value, or even diverges.
+
+Uniform convergence[edit]
+Main article: uniform convergence
+Let {\displaystyle \left\{f_{1},\ f_{2},\ f_{3},\dots \right\}} \left\{f_{1},\ f_{2},\ f_{3},\dots \right\} be a sequence of functions. The series {\displaystyle \sum _{n=1}^{\infty }f_{n}} \sum _{n=1}^{\infty }f_{n} is said to converge uniformly to f if the sequence {\displaystyle \{s_{n}\}} \{s_{n}\} of partial sums defined by
+
+{\displaystyle s_{n}(x)=\sum _{k=1}^{n}f_{k}(x)} s_{n}(x)=\sum _{k=1}^{n}f_{k}(x)
+converges uniformly to f.
+
+There is an analogue of the comparison test for infinite series of functions called the Weierstrass M-test.
+
+Cauchy convergence criterion[edit]
+The Cauchy convergence criterion states that a series
+
+{\displaystyle \sum _{n=1}^{\infty }a_{n}} \sum _{n=1}^{\infty }a_{n}
+converges if and only if the sequence of partial sums is a Cauchy sequence. This means that for every {\displaystyle \varepsilon >0,} \varepsilon >0, there is a positive integer {\displaystyle N} N such that for all {\displaystyle n\geq m\geq N} n\geq m\geq N we have
+
+{\displaystyle \left|\sum _{k=m}^{n}a_{k}\right|<\varepsilon ,} \left|\sum _{k=m}^{n}a_{k}\right|<\varepsilon ,
+which is equivalent to
+
+{\displaystyle \lim _{n\to \infty \atop m\to \infty }\sum _{k=n}^{n+m}a_{k}=0.} \lim _{n\to \infty  \atop m\to \infty }\sum _{k=n}^{n+m}a_{k}=0.

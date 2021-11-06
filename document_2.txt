@@ -1,0 +1,95 @@
+tmospheric circulation
+From Wikipedia, the free encyclopedia
+
+[hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs additional citations for verification. (March 2009)
+This article may require cleanup to meet Wikipedia's quality standards. (June 2008)
+
+Idealised depiction (at equinox) of large scale atmospheric circulation on Earth.
+
+Long-term mean precipitation by month
+Atmospheric circulation is the large-scale movement of air, and together with ocean circulation is the means by which thermal energy is redistributed on the surface of the Earth.
+
+The Earth's atmospheric circulation varies from year to year, but the large scale structure of its circulation remains fairly constant. The smaller scale weather systems – mid-latitude depressions, or tropical convective cells – occur "randomly", and long range weather predictions of those cannot be made beyond ten days in practice, or a month in theory (see Chaos theory and Butterfly effect). The large scale atmospheric circulation of the Earth, however, is an average of its systems and patterns, and is considered stable over longer periods of time.
+
+The Earth's weather is a consequence of its illumination by the Sun, and the laws of thermodynamics. The atmospheric circulation can be viewed, from that standpoint, as a heat engine driven by the Sun's energy, and whose energy sink, ultimately, is the blackness of space. The work produced by that engine causes the motion of the masses of air and in that process it redistributes the energy absorbed by the Earth's surface near the tropics to space and incidentally to the latitudes nearer the poles.
+
+The large scale atmospheric circulation "cells" shift polewards in warmer periods (e.g. interglacials compared to glacials), but remain largely constant as they are, fundamentally, a property of the Earth's size, rotation rate, heating and atmospheric depth, all of which change little. Over very long time periods (hundreds of millions of years), a tectonic uplift can significantly alter their major elements, such as the jet stream, and plate tectonics may shift ocean currents. During the extremely hot climates of the Mesozoic, a third desert belt may have existed at the Equator. But, the overall latitudinal pattern of Earth's climate has not changed.
+
+Contents  [hide] 
+1    Latitudinal Circulation Features
+1.1    Hadley cell
+1.2    Polar cell
+1.3    Ferrel cell
+2    Longitudinal circulation features
+2.1    Walker circulation
+2.1.1    El Niño – Southern Oscillation
+3    See also
+4    References
+5    External links
+Latitudinal Circulation Features[edit]
+
+An idealised view of three large circulation cells showing surface winds
+
+Vertical velocity at 500 hPa, July average. Ascent (negative values) is concentrated close to the solar equator; descent (positive values) is more diffuse but also occurs mainly in the Hadley cell.
+The wind belts girdling the planet are organised into three cells; they are from the equator toward the poles, the Hadley cell, the Ferrel cell, and the Polar cell. Those cells exist in both the northern and southern hemispheres. The vast bulk of the atmospheric motion occurs in the Hadley cell. Note that there is one discrete Hadley cell that may split, shift and merge in a complicated process over time[citation needed]. The high pressure systems acting on the Earth's surface is balanced by the low pressure systems elsewhere. As a result, there a balance of forces acting on the Earth's surface.
+
+Hadley cell[edit]
+Main article: Hadley cell
+
+The ITCZ's band of clouds over the Eastern Pacific and the Americas as seen from space
+The atmospheric circulation pattern that George Hadley described was an attempt to explain the trade winds. The Hadley cell is a closed circulation loop, which begins at the equator. There, moist air is warmed by the Earth's surface, decreases in density and rises. A similar air mass rising on the other side of the equator forces those rising air masses to move poleward. The rising air creates a low pressure zone near the equator. As the air moves poleward, it cools, becomes more dense, and descends at about 30th parallel, creating a high-pressure area. The descended air then travels toward the equator along the surface, replacing the air that rose from the equatorial zone, closing the loop of the Hadley cell. The poleward movement of the air in the upper part of the troposphere deviates toward the east due to the coriolis acceleration (a manifestation of conservation of energy). At the ground level however, the movement of the air toward the equator in the lower troposphere deviates toward the west producing a wind from the east (again due to conservation of energy). The winds that flow to the west (from the east, easterly wind) at the ground level in the Hadley cell, are called the Trade Winds.
+
+Though the Hadley cell is described as located at the equator, in the northern hemisphere, it shifts to higher latitudes June and July and toward lower latitudes December and January as it is caused by the Sun's heating of the surface. The zone where the greatest heating takes place is called the "thermal equator". As the southern hemisphere summer is December to March, the movement of the thermal equator to higher southern latitudes takes place then.
+
+The Hadley system provides an example of a thermally direct circulation. The thermodynamic efficiency and power of the Hadley system, considered as a heat engine, is estimated as 2.6% and 200x1012 (TW).[1]
+
+Polar cell[edit]
+Main articles: Polar vortex and Polar easterlies
+The Polar cell, likewise, is a simple system. Though cool and dry relative to equatorial air, the air masses at the 60th parallel are still sufficiently warm and moist to undergo convection and drive a thermal loop. At the 60th parallel, the air rises to the tropopause (about 8 km at this latitude) and moves poleward. As it does so, the upper level air mass deviates toward the east. When the air reaches the polar areas, it has cooled and is considerably denser than the underlying air. It descends, creating a cold, dry high-pressure area. At the polar surface level, the mass of air is driven toward the 60th parallel, replacing the air that rose there, and the Polar circulation cell is complete. As the air at the surface moves equatorward, it deviates toward the west. Again, the deviations of the air masses is due to conservation of energy, which is also referred to as the Coriolis effect. The air flows at the surface are called the Polar easterlies (easterly from the east).
+
+The outflow of air mass from the cell creates harmonic waves in the atmosphere known as Rossby waves. These ultra-long waves determine the path of the jet stream, which travels within the transitional zone between the tropopause and the Ferrel cell. By acting as a heat sink, the Polar cell moves the abundant heat from the equator toward the polar regions.
+
+The Hadley cell and the Polar cell are similar in that they are thermally direct; in other words, they exist as a direct consequence of surface temperatures. Their thermal characteristics drive the weather in their domain. The sheer volume of energy that the Hadley cell transports, and the depth of the heat sink that is the Polar cell, ensures that the effects of transient weather phenomena are not only not felt by the system as a whole, but — except under unusual circumstances — do not form. The endless chain of passing highs and lows which is part of everyday life for mid-latitude dwellers, at latitudes between 30 and 60° latitude, is unknown above the 60th and below the 30th parallels. There are some notable exceptions to this rule. In Europe, unstable weather extends to at least 70° north.
+
+These atmospheric features are stable. Even though they may strengthen or weaken regionally over time, they do not vanish entirely.
+
+The Polar cell, orography and Katabatic winds in Antarctica, can create very cold conditions at the surface, for instance the coldest temperature recorded on Earth: −89.2 °C at Vostok Station in Antarctica, measured 1983.[2][3][4]
+
+Ferrel cell[edit]
+Part of the air rising at 60° latitude diverges at high altitude toward the poles and creates the polar cell. The rest moves toward the equator where it collides at 30° latitude with the high level air of the Hadley cell. There it subsides and strengthens the high pressure ridges beneath. A large part of the energy that drives the Ferrel cell is provided by the Polar and Hadley cells circulating on either side and that drag the Ferrel cell with it.[5] The Ferrel cell, theorized by William Ferrel (1817–1891), is therefore a secondary circulation feature, whose existence depends upon the Hadley and Polar cells on either side of it; it behaves much as an atmospheric ball bearing between the two. It might be thought of as an eddy created by the Hadley and Polar cells. The Ferrel cell is weak and the air flow and temperatures within are variable. For this reason, the mid latitudes are sometimes known as the "zone of mixing." At high altitudes, the Ferrel cell overrides the Hadley and Polar cells. The air of the Ferrel cell that descends at 30° latitude returns poleward at the ground level and as it does so it deviates toward the east. In the upper atmosphere of the Ferrel cell the air moving equatorward, deviates toward the west. Both of those deviations, as in the case of the Hadley and Polar cells, are driven by conservation of energy. As a result, just as the Easterly Trade Winds are found below the Hadley cell, the Westerlies are found beneath the Ferrel cell. The forces driving the flow in the Ferrel cell are weak and so the weather in that zone is variable. Thus, strong high-pressure areas which divert the prevailing westerlies, such as a Siberian high, can override the Ferrel cell, making it discontinuous.
+
+While the Hadley and Polar cells are truly closed loops, the Ferrel cell is not, and the telling point is in the Westerlies, which are more formally known as "the Prevailing Westerlies." The Easterly Trade Winds and the Polar Easterlies have nothing over which to prevail, as their parent circulation cells are strong enough, and face few obstacles either in the form of massive terrain features or high pressure zones. The weaker Westerlies of the Ferrel cell, however, can be disrupted. The local passage of a cold front may change that in a matter of minutes, and frequently does. As a result, at the surface, winds can vary abruptly in direction. But the winds above the surface, where they are less disrupted by terrain, are essentially westerly. A low pressure zone at 60° latitude that moves equator wards, or a high pressure zone at 30° latitude that moves poleward, will accelerate the Westerlies of the Ferrel cell. A strong high, moving polewards may bring Westerly winds for days. As the high and low pressure zones are established by the Hadley and Polar cells, it can be said that they drive the weather of the middle latitude Ferrel cell.
+
+The Ferrel cell is driven by the Hadley and Polar cells. It has neither a strong source of heat nor a strong cold sink to drive convection. As a result, the weather within the Ferrel cell is highly variable and is influenced by changes to the Hadley and Polar cells. The base of the Ferrel cell is characterized by the movement of air masses, and the location of those air masses is influenced in part by the location of the jet stream, even though it flows near the tropopause. Overall, the movement of surface air is from the 30th latitude to the 60th. However, the upper flow of the Ferrel cell is weak and not well defined.
+
+In contrast to the Hadley and Polar systems, the Ferrel system provides an example of a thermally indirect circulation. The Ferrel system acts as a heat pump with a coefficient of performance of 12.1, consuming kinetic energy at an approximate rate of 275 TW.[1]
+
+Longitudinal circulation features[edit]
+While the Hadley, Ferrel, and Polar cells (whose axes are oriented along parallels i.e. latitudes) are the major features of global heat transport, they do not act alone. Temperature differences also drive a set of circulation cells, whose axis of circulation are longitudinally oriented. This atmospheric motion is known as zonal overturning circulation.
+
+Latitudinal circulation is a result of the highest solar radiation per unit area (solar intensity) falling on the tropics. The solar intensity decreases as the latitude increases, reaching essentially zero at the poles. Longitudinal circulation, however, is a result of the heat capacity of water, it's absorptivity, and it's mixing. Water absorbs more heat than does the land, but its temperature does not rise as greatly as does the land. As a result, temperature variations on land are greater than on water. The Hadley, Ferrel, and Polar cells operate at the largest scale of thousands of kilometers (synoptic scale). But, even at mesoscales (a horizontal range of 5 to several hundred kilometres), this effect is noticeable. During the day, air warmed by the relatively hotter land rises, and as it does so it draws a cool breeze from the sea that replaces the risen air. At night, the relatively warmer water and cooler land reverses the process, and a breeze from the land, of air cooled by the land, is carried offshore by night. This described effect is daily (diurnal).
+
+
+Diurnal wind change in local coastal area, also applies on the continental scale.
+At the larger, synoptic, scale of oceans and continents, this effect is seasonal or even decadal. Warm air rising over the equatorial, continental, and western Pacific Ocean regions. When it reaches the tropopause, it cools and subsides in a region of relatively cooler water mass.
+
+The Pacific Ocean cell plays a particularly important role in Earth's weather. This entirely ocean-based cell comes about as the result of a marked difference in the surface temperatures of the western and eastern Pacific. Under ordinary circumstances, the western Pacific waters are warm and the eastern waters are cool. The process begins when strong convective activity over equatorial East Asia and subsiding cool air off South America's west coast creates a wind pattern which pushes Pacific water westward and piles it up in the western Pacific. (Water levels in the western Pacific are about 60 cm higher than in the eastern Pacific, a difference due entirely to the force of moving air.)[6][7][8][9]
+
+Walker circulation[edit]
+Main article: Walker circulation
+The Pacific cell is of such importance that it has been named the Walker circulation after Sir Gilbert Walker, an early-20th-century director of British observatories in India, who sought a means of predicting when the monsoon winds of India would fail. While he was never successful in doing so, his work led him to the discovery of a link between the periodic pressure variations in the Indian Ocean, and those between the eastern and western Pacific, which he termed the "Southern Oscillation".
+
+The movement of air in the Walker circulation affects the loops on either side. Under "normal" circumstances, the weather behaves as expected. But every few years, the winters become unusually warm or unusually cold, or the frequency of hurricanes increases or decreases, and the pattern sets in for an indeterminate period. The Walker Cell plays a key role in this and in the El Niño phenomenon. If convective activity slows in the Western Pacific for some reason (this reason is not currently known), the climate dominoes next to it begin to topple. First, the upper-level westerly winds fail. This cuts off the source of returning, cool air that would normally subside at about 30° north latitude, and therefore the air returning as surface Easterlies ceases.
+
+The consequence of this is twofold. Warm water ceases to surge into the eastern Pacific from the west (it was "piled" by past easterly winds) since there is no longer a surface wind to push it into the area of the west pacific. This and the corresponding effects of the Southern Oscillation result in long-term unseasonable temperatures and precipitation patterns in North and South America, Australia, and Southeast Africa, and the disruption of ocean currents.
+
+Meanwhile, in the Atlantic, fast-blowing upper level Westerlies of the Hadley cell, which would ordinarily be blocked by the Walker circulation and unable to reach such intensities, form. These winds tear apart the tops of nascent hurricanes and greatly diminish the number which are able to reach full strength.
+
+El Niño – Southern Oscillation[edit]
+Main article: El Niño-Southern Oscillation
+El Niño and La Niña are opposite surface temperature anomalies of the Southern Pacific, which heavily influence the weather on a large scale. In the case of El Niño, warm surface water approaches the coasts of South America which results in blocking the upwelling of nutrient-rich deep water. This has serious impacts on the fish populations.
+
+In the La Niña case, the convective cell over the western Pacific strengthens inordinately, resulting in colder than normal winters in North America, and a more robust cyclone season in South-East Asia and Eastern Australia. There is also an increased upwelling of deep cold ocean waters and more intense uprising of surface air near South America, resulting in increasing numbers of drought occurrences, although it is often argued that fishermen reap benefits from the more nutrient-filled eastern Pacific waters.
+
+The neutral part of the cycle – the "normal" component – has been referred to humorously by some as "La Nada", which means "the nothing" in Spanish.
